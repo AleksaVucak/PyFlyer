@@ -47,7 +47,7 @@ Python 3.7+
 
 ## Installation
 1) Ensure all image folders provided are on your desktop
-> Make sure to have the 'data' folder on you desktop
+- Make sure to have the 'data' folder on you desktop
 2) Clone the repository or download the file titled AV.paint
 3) Run the scipt:
 > pip install pygame
