@@ -46,20 +46,22 @@ Python 3.7+
 - Standard Python Libraries (os, math, random)
 
 ## Installation
-1) Ensure all image folders provided are on your desktop
-- Make sure to have the 'data' folder on you desktop
-2) Clone the repository or download the file titled AV.paint
-3) Run the scipt:
+1) Ensure the image folder titled 'data' is on your desktop.
+2) Clone the repository or download the file titled AV.compIGRICA, then also have this file on your desktop.
+3) Run the script:
 > pip install pygame
 
 ## How to Run
-1) Run the scipt:
+1) Run the script:
 > python3 AVcompIGRICA.py
 
 ## Acknowledgements
 - Pygame documentation for graphics and sound integration.
 - Community Assets: Sprites, fonts, and sound effects used to enhance gameplay.
 > Inspiration: Jetpack Joyride and Flappy Bird.
+
+## Demo
+
 
 ## Contact
 For any questions, feedback, or collaboration opportunities, feel free to reach out:
