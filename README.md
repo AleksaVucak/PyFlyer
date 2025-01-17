@@ -62,6 +62,10 @@ Python 3.7+
 > Inspiration: Jetpack Joyride and Flappy Bird.
 
 ## Demo
+![Screen Shot 2025-01-16 at 11 06 59 PM](https://github.com/user-attachments/assets/4a3a10f6-84ee-4eb4-b2b5-781f369fd13d)
+![Screen Shot 2025-01-16 at 11 07 41 PM](https://github.com/user-attachments/assets/3b6c872b-3201-43b5-9318-38b1674ec0b6)
+![Screen Shot 2025-01-16 at 11 07 59 PM](https://github.com/user-attachments/assets/e6ec7258-c064-4034-b0aa-0eeac4d9beef)
+![Screen Shot 2025-01-16 at 11 09 03 PM](https://github.com/user-attachments/assets/82f091ad-a340-4290-845f-652c5d9882e5)
 
 
 ## Contact
