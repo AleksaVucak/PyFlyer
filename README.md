@@ -26,7 +26,8 @@ Unlock additional character skins using coins earned in the game.
 Customize game preferences, including FPS display and audio settings.
 
 ## Controls
-- Spacebar: Fly the character.
+- Pressing Spacebar: Character jumps.
+- Holding Spacebar: Character flys.
 > Avoid lasers and bombs while collecting coins.
 
 ## Key Features
